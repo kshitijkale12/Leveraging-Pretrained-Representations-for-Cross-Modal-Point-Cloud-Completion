@@ -1,11 +1,11 @@
 # Leveraging Pretrained Representations for Cross-Modal Point Cloud Completion
 
-This repository provides the official PyTorch implementation for our paper, **"Leveraging Pretrained Representations for Cross-Modal Point Cloud Completion"**. Our work introduces a novel image encoder that significantly improves the performance of the state-of-the-art EGI-Net framework.
+This repository provides the official PyTorch implementation for our paper, **"Leveraging Pretrained Representations for Cross-Modal Point Cloud Completion"**. Our work introduces a novel image encoder that significantly improves the performance of the state-of-the-art EGIInet framework.
 
 [](https://www.google.com/search?q=https://arxiv.org/abs/your-paper-link-here)
 [](https://opensource.org/licenses/MIT)
 
-*Our Dual-branch Encoder fuses geometric cues from a depth estimator with semantic priors from a Vision Transformer, creating a powerful guide for the EGI-Net completion framework.*
+*Our Dual-branch Encoder fuses geometric cues from a depth estimator with semantic priors from a Vision Transformer, creating a powerful guide for the EGIInet completion framework.*
 
 -----
 
@@ -18,7 +18,7 @@ We challenge this paradigm by demonstrating that knowledge from large-scale, pre
 1.  **Geometric Cues:** Extracted from a pre-trained depth estimation model (DepthAnything).
 2.  **Semantic Priors:** Extracted from a pre-trained Vision Transformer (DINOv2).
 
-By replacing the original image encoder in the EGI-Net framework with our module, we achieve a **7% performance increase** on unseen categories without altering the rest of the architecture, producing more semantically coherent and structurally accurate 3D shapes.
+By replacing the original image encoder in the EGIInet framework with our module, we achieve a **7% performance increase** on unseen categories without altering the rest of the architecture, producing more semantically coherent and structurally accurate 3D shapes.
 
 -----
 
