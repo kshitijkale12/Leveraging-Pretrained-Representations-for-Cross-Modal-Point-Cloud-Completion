@@ -64,4 +64,4 @@ __C.TEST                                         = edict()
 __C.TEST.METRIC_NAME                             = 'ChamferDistance'
 __C.TEST.CATE                                    = 'all'
 __C.TEST.BATCH_SIZE                              = 64
-#__C.CONST.WEIGHTS = #os.path.join('/home/kshitij/kshitij/egiinet_dino','checkpoints/all-eight-ckpt-best.pth') #path to pre-trained checkpoints
+#__C.CONST.WEIGHTS = ""
