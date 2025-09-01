@@ -2,7 +2,6 @@
 
 This repository provides the official PyTorch implementation for our paper, **"Leveraging Pretrained Representations for Cross-Modal Point Cloud Completion"**. Our work introduces a novel image encoder that significantly improves the performance of the state-of-the-art EGIInet framework.
 
-[](https://www.google.com/search?q=https://arxiv.org/abs/your-paper-link-here)
 [](https://opensource.org/licenses/MIT)
 
 *Our Dual-branch Encoder fuses geometric cues from a depth estimator with semantic priors from a Vision Transformer, creating a powerful guide for the EGIInet completion framework.*
@@ -78,9 +77,9 @@ This will create a `ShapeNetViPC-Dataset` directory containing the partial scans
 
 ### 3\. Pre-trained Models
 
-Download the necessary pre-trained model weights from the link below and place them in your desired checkpoint directory.
+Download the necessary pre-trained model weights from the link below from the pretrained directory and place them in your desired checkpoint directory.
 
-  * **Download:** [Google Drive Link](https://drive.google.com/file/d/1AU2ddmVjbbdEWr5-3w2jqXt9d0nky8ts/view?usp=sharing)
+  * **Download:** [GITHUB LINK](https://anonymous.4open.science/r/DUAL_BRANCH-C973)
 
 -----
 
