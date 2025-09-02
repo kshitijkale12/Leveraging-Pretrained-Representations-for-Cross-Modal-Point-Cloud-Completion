@@ -119,4 +119,4 @@ This project is built upon the official implementation of **EGIINet**. Our code 
   * [ViPC](https://github.com/Hydrogenion/ViPC)
   * [XMFnet](https://github.com/diegovalsesia/XMFnet)
 
-We thank all the authors for their valuable contributions and for open-sourcing their work.
+We thank all the authors for their valuable contributions and for open-sourcing their work..
