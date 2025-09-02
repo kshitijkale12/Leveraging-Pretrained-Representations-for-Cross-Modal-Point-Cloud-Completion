@@ -79,7 +79,7 @@ This will create a `ShapeNetViPC-Dataset` directory containing the partial scans
 
 Download the necessary pre-trained model weights from the link below and place them in your desired checkpoint directory.
 
-  * **Download:** [WORMHOLE](https://wormhole.app/z9PLjn#K2T9W1jbw-Xg_I1UJl7m5A)
+  * **Download:** [google drive](https://drive.google.com/file/d/1P-YwZqrLmdnPKsyMmQ0Qm2Cesq_GXJjW/view?usp=drive_link)
 
 -----
 
