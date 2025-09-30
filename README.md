@@ -79,7 +79,7 @@ This will create a `ShapeNetViPC-Dataset` directory containing the partial scans
 
 Download the necessary pre-trained model weights from the link below and place them in your desired checkpoint directory.
 
-  * **Download:** [google drive](https://drive.google.com/file/d/1P-YwZqrLmdnPKsyMmQ0Qm2Cesq_GXJjW/view?usp=drive_link)
+  * **Download:** [google drive](https://drive.google.com/drive/folders/1Hej51WsV77XcqhQqW5BYDyUqFNS7JndN?usp=drive_link)
 
 -----
 
